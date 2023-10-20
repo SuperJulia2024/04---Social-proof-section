@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/SuperJulia2024/frontendmentor-Social-proof-section](https://github.com/SuperJulia2024/frontendmentor-Social-proof-section)
-- Live Site URL: [https://superjulia2024.github.io/frontendmentor-Social-proof-section/](https://superjulia2024.github.io/frontendmentor-Social-proof-section)
+- Live Site URL: [https://superjulia2024.github.io/frontendmentor-Social-proof-section](https://superjulia2024.github.io/frontendmentor-Social-proof-section)
 
 ## My process
 
