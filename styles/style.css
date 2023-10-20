@@ -131,7 +131,7 @@ article.t_card .testimony {
   line-height: 1.3rem;
 }
 
-@media (min-width: 1100px) {
+@media (min-width: 1000px) {
   main {
     width: 1064px;
     padding-top: 120px;
